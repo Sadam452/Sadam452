@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sadam452
 - 👀 I’m interested in Web development, Machine Learning, IoT, AI, Android Development, Data Analysis...
-- 🌱 I’m currently learning Machine learning, Android development, Advanced IoT..
+- 🌱 I’m currently learning Machine learning, Compiler Design, Network Security, Android Development.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... https://saddam.tech or mail me at hussainganie388@gmail.com
 - 🙌 Current education: B Tech Final year student.
