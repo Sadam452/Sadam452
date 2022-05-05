@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... https://saddam.tech or mail me at hussainganie388@gmail.com
 - 🙌 Current education: B Tech Final year student.
-- ✨ Currently- Software Development intern at IIT-B.
+- ✨ Currently- Software Development intern at IIT-B. Working on https://github.com/IITB-OpenOCRCorrect/iitb-openocr-digit-tool
 <!---
 Sadam452/Sadam452 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
