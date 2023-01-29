@@ -31,8 +31,9 @@
 - 🌱 Firm grasp on data structures, algorithms, Databases, & many more...
 - 📫 How to reach me ... https://saddam.tech or mail me at hussainganie388@gmail.com
 - 🙌 Highest Qualification: B. TECH CSE [2022]
-- ✨ Currently- Software Development intern at IIT Bombay Working on [OpeOcrCorrect](https://github.com/IITB-OpenOCRCorrect/iitb-openocr-digit-tool)
+- ✨ Currently- Software Developer(Technical Lead) at IIT Bombay Working on [LEAP Post Editing Tool](https://github.com/UDAAN-LEAP/leap-pe-tool)
 - 🤝 Computer Science Subject Matter Expert at [TutorPoint](https://tutorpoint.in/)
+- ✔️ Contributor [Project Udaan](https://udaanproject.org/AboutUs)
 ### :fire: My Stats :
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Sadam452&theme=jolly&fire=DD2727)](https://git.io/streak-stats)
 
