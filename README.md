@@ -25,14 +25,14 @@
 
 
 - 👋 Hi, I’m @Sadam452
-- 👀 I’m interested in Web development, Machine Learning, IoT, AI, Android Development, Software Development, Data Analysis...
+- 👀 I’m interested in Web development, Machine Learning, IoT, AI, Security, Android Development, Software Development...
 - 💞️ I’m looking to collaborate on C & C++ projects...
 - 🕕 Having Good hold on C, C++, Python, & Java programming languages & web development.
 - 🌱 Firm grasp on data structures, algorithms, Databases, & many more...
 - 📫 How to reach me ... https://sadam.live or mail me at hussainganie388@gmail.com
 - 🙌 Highest Qualification: B. TECH CSE [2022]
 - 👨‍🎓 M. Tech CSE(IS) @ NIT Warangal '25.
-- ✨ Currently- Software Developer(Technical Lead) at IIT Bombay Working on [LEAP Post Editing Tool](https://github.com/UDAAN-LEAP/leap-pe-tool)
+- ✨ Ex - Software Developer(Technical Lead) at IIT Bombay Working on [LEAP Post Editing Tool](https://github.com/UDAAN-LEAP/leap-pe-tool)
 - 🤝 Computer Science Subject Matter Expert at [TutorPoint](https://tutorpoint.in/)
 - ✔️ Contributor [Project Udaan](https://udaanproject.org/AboutUs)
 ### :fire: My Stats :
