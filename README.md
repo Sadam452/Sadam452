@@ -27,7 +27,7 @@
 - 👋 Hi, I’m @Sadam452
 - 👀 I’m interested in Web development, Machine Learning, IoT, AI, Security, Android Development, Software Development...
 - 💞️ I’m looking to collaborate on C & C++ projects...
-- 🕕 Having Good hold on C, C++, Python, & Java programming languages & web development.
+- 🕕 Having Good hold on C, C++, Python, & Java programming languages, web development, & databases.
 - 🌱 Firm grasp on data structures, algorithms, Databases, & many more...
 - 📫 How to reach me ... https://sadam.live or mail me at hussainganie388@gmail.com
 - 🙌 Highest Qualification: B. TECH CSE [2022]
@@ -35,6 +35,7 @@
 - ✨ Ex - Software Developer(Technical Lead) at IIT Bombay Working on [LEAP Post Editing Tool](https://github.com/UDAAN-LEAP/leap-pe-tool)
 - 🤝 Computer Science Subject Matter Expert at [TutorPoint](https://tutorpoint.in/)
 - ✔️ Contributor [Project Udaan](https://udaanproject.org/AboutUs)
+- ⚒️ Currently building [MobiGuard](https://github.com/Sadam452/MobiGuard)
 ### :fire: My Stats :
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Sadam452&theme=jolly&fire=DD2727)](https://git.io/streak-stats)
 
